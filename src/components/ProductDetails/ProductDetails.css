@@ -1,0 +1,10 @@
+.product-container{
+    background-image: url('../../../public/images/page-title-right.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 300px;
+    background-color: aqua;
+}
+.font-size{
+    font-family: "Cormorant Upright", serif;
+}
